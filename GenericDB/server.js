@@ -232,4 +232,4 @@ app.get('/api/:table1/:id1/:table2',
     });
 
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
