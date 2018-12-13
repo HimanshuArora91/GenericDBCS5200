@@ -24,6 +24,14 @@ app.use( function(req, res, next) {
 var dao = require('./daos/generic.dao.server');
 
 
+app.get('/api/hello',
+    (req, res) => {
+
+        res.send("Hii");
+
+
+    });
+
 app.post('/api/:table',
     (req, res) => {
 
