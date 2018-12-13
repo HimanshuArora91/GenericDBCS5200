@@ -6,7 +6,7 @@ var _ = require('lodash');
 
 
 const mongoose = require ('mongoose');
-mongoose.connect('mongodb://localhost/generic-db');
+mongoose.connect('mongodb://himanshu:qwertyuiop123@ds023550.mlab.com:23550/heroku_48hhfwgp');
 
 
 app.use(bodyParser.json());
