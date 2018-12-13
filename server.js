@@ -27,8 +27,9 @@ var dao = require('./daos/generic.dao.server');
 app.get('/',
     (req, res) => {
 
-        res.send("Hello Welcome to Generic DB app. Please Use the Postman to query as" +
-            " provided in the Github https://github.com/HimanshuArora91/GenericDBCS5200/blob/master/README.md");
+        res.send("Hello Welcome to Generic DB app. " +
+            "Please Use the Postman to query as" +
+            " provided in the README file at Github Repo https://github.com/HimanshuArora91/GenericDBCS5200/");
 
 
     });
