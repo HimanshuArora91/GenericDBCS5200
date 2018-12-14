@@ -9,6 +9,10 @@ This will serve as the base URL for all Http request.
 Youtube Link  : https://youtu.be/nrNnooJc3FI
 
 
+Postman URL link : https://www.getpostman.com/collections/0e38b16e85abffe22421
+
+https://web.postman.co/collections/2161284-7f9336dd-233c-4af0-819f-00b248ae6f9f?workspace=1fc658bd-9f89-485f-8889-9a4cd1685408
+
 List Of Postman URL's
 
 ## Single Table Test
