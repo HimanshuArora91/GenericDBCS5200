@@ -1,5 +1,8 @@
 # GenericDBCS5200
 
+To run locally : run the server.js file and start mongo locally. The requests listen at port 3000 when running locally.
+
+The application is also hosted on the heroku server. Below URL can also be used to make http requests as provided in the example.
 
 URL for app : https://cs5200-generic-db.herokuapp.com/
 
